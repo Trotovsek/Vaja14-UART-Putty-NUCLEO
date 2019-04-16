@@ -18,3 +18,7 @@ f) V polju Configuration izbranega serijskega vmesnika pustimo privzeto hitrost,
 
 f) Dodajte še ukaz za zakasnitev s funkcijo Delay iz knjižnice HAL, in sicer 2 sekunde (glej vaja0a):
   HAL_Delay(2000);.
+
+
+Komentar:
+"Jan je iz CubeMX takoj odprel "Open Project" a ga je Nejc še pravočasno ustavil." Vaja je potekala brez težav in naredila sva jo rekorno hitro
